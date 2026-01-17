@@ -4,7 +4,9 @@
 
 这个东西的环境很古老，建议同时使用mamba和environment.yml配置环境。
 
-运行force_download.py后，可以直接跑我的64ID和256ID的代码，具体原理和怎么跑我写在报告里面了。
+运行force_download.py后，可以直接跑我的64ID和256ID的代码，具体原理和怎么跑我写在`report.pdf`里面了。
+
+目前仓库里面代码的配置是针对某些ID范围特意强化的版本，疑似整体水平并非最优。
 
 
 # Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models
